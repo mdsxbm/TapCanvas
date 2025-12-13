@@ -1,4 +1,4 @@
-name = "tap-anvas"
+name = "tpcanvas"
 main = "cloudflare/worker.ts"
 compatibility_date = "2025-01-01"
 
